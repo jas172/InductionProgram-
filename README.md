@@ -1,6 +1,6 @@
 # InductionProgram -
 ## B.Tech CSE
-## Day 1
+### Day 1
 #### 8:30 to 9:30 
 ##### The day began with Path and Kirtan at the college Gurdwara Sahib, blessing the new beginnings of our future tech leaders.
 #### 9:30 to 10:30 
@@ -10,7 +10,7 @@
 
 ##### In the presentation, college pass out proud alumni – Sangam Arora and Aashpreet Singh, shared how dedication and involvement beyond the classroom shaped their successful journeys.
 
-## Visionary addresses by:
+### Visionary addresses by:
 
 ##### Principal of the College: Dr. Sehijpal Singh (later on)
 
@@ -19,6 +19,8 @@
 ##### Dean Academics: Dr. Akshay Girdhar
 
 ##### Dean Student Welfare: Dr. Parminder Singh
+
+### College Operations and Mandatory Guidelines
 
 ##### We were informed about different sections and what activities are conducted in each class.
 
