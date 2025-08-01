@@ -1,6 +1,6 @@
 # InductionProgram -
-## B.Tech CSE
-### Day 1
+# B.Tech CSE
+## Day 1
 #### 8:30 to 9:30 
 ##### The day began with Path and Kirtan at the college Gurdwara Sahib, blessing the new beginnings of our future tech leaders.
 #### 9:30 to 10:30 
@@ -28,21 +28,21 @@
 
 ##### Later, we were made aware about what is mandatory and its importance.
 
-### Day 2
+## Day 2
 #### 9:30 to 10:30 
 ##### English Proficiency Test
 
-### 10:30 to 11:30 
+#### 10:30 to 11:30 
 ##### Maths Proficiency Test
 
-### 11:30 to 1:00 
+#### 11:30 to 1:00 
 ##### Break
 
-### 1:00 to 2:00 
+#### 1:00 to 2:00 
 ##### Expert Lecture by Dr. Arashdeep Singh tell us about "Food A Pivotal Role in Student's Overall Wellness"
 
-### 2:00 to 3:00 
+#### 2:00 to 3:00 
 ##### Session by Causmic Club and Launch of Induction Activities 
 
-### 3:00 to 4:00 
+#### 3:00 to 4:00 
 ##### Seniors tell us about github
