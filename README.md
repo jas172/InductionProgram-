@@ -49,7 +49,8 @@
 
 ## Day 3
 #### 9:00 to 11:00 
-* Expert Lecture by Dr. Jaswinder Singh (Incharge – IAPT) – Auditorium
+##### Lecture by Dr. Jaswinder Singh
+* He explained to us what mathematics and physics are, and what role God plays in them. He talked to us about vibrations and made a sincere effort to connect us with God. He also taught us an important principle to stay focused in our work.
 
 #### 11:00 to 1:00 
-* Expert Lecture by Dr. Priya Darshni Madam on "Universal Human Values" – Auditorium
+* Expert Lecture by Dr. Priya Darshni Madam on "Universal Human Values" 
