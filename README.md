@@ -1,5 +1,5 @@
 # InductionProgram -
-# B.Tech CSE
+* B.Tech CSE
 ## Day 1
 #### 8:30 to 9:30 
 * The day began with Path and Kirtan at the college Gurdwara Sahib, blessing the new beginnings of our future tech leaders.
@@ -46,3 +46,10 @@
 
 #### 3:00 to 4:00 
 * Seniors tell us about github
+
+## Day 3
+#### 9:00 to 11:00 
+* Expert Lecture by Dr. Jaswinder Singh (Incharge – IAPT) – Auditorium
+
+#### 11:00 to 1:00 
+* Expert Lecture by Dr. Priya Darshni Madam on "Universal Human Values" – Auditorium
