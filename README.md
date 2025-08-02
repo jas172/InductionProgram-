@@ -53,4 +53,5 @@
 * He explained to us what mathematics and physics are, and what role God plays in them. He talked to us about vibrations and made a sincere effort to connect us with God. He also taught us an important principle to stay focused in our work.
 
 #### 11:00 to 1:00 
-* Expert Lecture by Dr. Priya Darshni Madam on "Universal Human Values" 
+##### Lecture by Dr. Priya Darshni Madam "Universal Human Values" 
+* Dr. Priya Darshni delivered an inspiring session on Universal Human Values, focusing on the importance of inner growth along with academic knowledge. She emphasized how values like honesty, compassion, respect, responsibility, and gratitude are essential in both personal and professional life. She encouraged students to build strong moral character and stay connected with their conscience. The lecture highlighted how understanding human values can lead to a more peaceful and purposeful life. Dr. Darshni also shared real-life examples to explain how these values shape our decisions and relationships. She motivated everyone to become not just successful professionals, but also responsible and kind human beings. The session made students reflect deeply on their behavior and attitude. It was a thought-provoking and enlightening experience for all who attended.
