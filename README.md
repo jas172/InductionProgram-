@@ -1,11 +1,11 @@
 # InductionProgram -
 * B.Tech CSE
 ## Day 1
-#### 8:30 to 9:30 
+
 * The day began with Path and Kirtan at the college Gurdwara Sahib, blessing the new beginnings of our future tech leaders.
-#### 9:30 to 10:30 
+ 
 * Tea and Bread Lungar
-#### 10:30 to 4:00
+
 * Students were introduced to the college's legacy through a college Student Induction Program 2025
 
 * In the presentation, college pass out proud alumni – Sangam Arora and Aashpreet Singh, shared how dedication and involvement beyond the classroom shaped their successful journeys.
@@ -29,29 +29,29 @@
 * Later, we were made aware about what is mandatory and its importance.
 
 ## Day 2
-#### 9:30 to 10:30 
+ 
 * English Proficiency Test
 
-#### 10:30 to 11:30 
+#### 
 * Maths Proficiency Test
 
-#### 11:30 to 1:00 
+
 * Break
 
-#### 1:00 to 2:00 
+
 * Expert Lecture by Dr. Arashdeep Singh tell us about "Food A Pivotal Role in Student's Overall Wellness"
 
-#### 2:00 to 3:00 
+
 * Session by Causmic Club and Launch of Induction Activities 
 
-#### 3:00 to 4:00 
+ 
 * Seniors tell us about github
 
 ## Day 3
-#### 9:00 to 11:00 
+ 
 ##### Lecture by Dr. Jaswinder Singh
 * He explained to us what mathematics and physics are, and what role God plays in them. He talked to us about vibrations and made a sincere effort to connect us with God. He also taught us an important principle to stay focused in our work.
 
-#### 11:00 to 1:00 
+
 ##### Lecture by Dr. Priya Darshni Madam "Universal Human Values" 
 * Dr. Priya Darshni delivered an inspiring session on Universal Human Values, focusing on the importance of inner growth along with academic knowledge. She emphasized how values like honesty, compassion, respect, responsibility, and gratitude are essential in both personal and professional life. She encouraged students to build strong moral character and stay connected with their conscience. The lecture highlighted how understanding human values can lead to a more peaceful and purposeful life. Dr. Darshni also shared real-life examples to explain how these values shape our decisions and relationships. She motivated everyone to become not just successful professionals, but also responsible and kind human beings. The session made students reflect deeply on their behavior and attitude. It was a thought-provoking and enlightening experience for all who attended.
