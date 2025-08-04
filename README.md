@@ -55,3 +55,28 @@
 
 ##### Lecture by Dr. Priya Darshni Madam "Universal Human Values" 
 * Dr. Priya Darshni delivered an inspiring session on Universal Human Values, focusing on the importance of inner growth along with academic knowledge. She emphasized how values like honesty, compassion, respect, responsibility, and gratitude are essential in both personal and professional life. She encouraged students to build strong moral character and stay connected with their conscience. The lecture highlighted how understanding human values can lead to a more peaceful and purposeful life. Dr. Darshni also shared real-life examples to explain how these values shape our decisions and relationships. She motivated everyone to become not just successful professionals, but also responsible and kind human beings. The session made students reflect deeply on their behavior and attitude. It was a thought-provoking and enlightening experience for all who attended.
+
+
+# Day 4
+
+##### P2P Lecture 
+* Today, our first lecture was on P2P, and our senior, Gurleen Kaur, taught us the basics of the C++ programming language.
+
+##### BEEE Lacture 
+
+
+
+
+🕦 11:30 AM – 12:30 PM
+
+Break
+
+
+🕧 12:30 PM – 2:30 PM
+
+Expert Lecture by Dr. Priya Darshni on "Universal Human Values-2" (Auditorium)
+
+
+🕝 2:30 PM – 3:30 PM
+
+Session by Causmic Club (Auditorium)
