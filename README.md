@@ -32,7 +32,7 @@
  
 * English Proficiency Test
 
-#### 
+
 * Maths Proficiency Test
 
 
@@ -50,33 +50,29 @@
 ## Day 3
  
 ##### Lecture by Dr. Jaswinder Singh
+
 * He explained to us what mathematics and physics are, and what role God plays in them. He talked to us about vibrations and made a sincere effort to connect us with God. He also taught us an important principle to stay focused in our work.
 
 
 ##### Lecture by Dr. Priya Darshni Madam "Universal Human Values" 
-* Dr. Priya Darshni delivered an inspiring session on Universal Human Values, focusing on the importance of inner growth along with academic knowledge. She emphasized how values like honesty, compassion, respect, responsibility, and gratitude are essential in both personal and professional life. She encouraged students to build strong moral character and stay connected with their conscience. The lecture highlighted how understanding human values can lead to a more peaceful and purposeful life. Dr. Darshni also shared real-life examples to explain how these values shape our decisions and relationships. She motivated everyone to become not just successful professionals, but also responsible and kind human beings. The session made students reflect deeply on their behavior and attitude. It was a thought-provoking and enlightening experience for all who attended.
+
+* Dr. Priya Darshni delivered an inspiring session on Universal Human Values, emphasizing the importance of inner growth alongside academics. She highlighted key values like honesty, compassion, and responsibility, showing how they shape our decisions and relationships. Using real-life examples, she encouraged students to build strong moral character and lead purposeful lives. The session was thought-provoking and encouraged deep self-reflection.
 
 
 # Day 4
 
 ##### P2P Lecture 
-* Today, our first lecture was on P2P, and our senior, Gurleen Kaur, taught us the basics of the C++ programming language.
+* Today, our first lecture was on P2P and our senior Gurleen Kaur taught us the basics of the C++ programming language.
 
 ##### BEEE Lacture 
+* In the BEEE lecture, Prof. Balwinder Singh taught us. He explained the syllabus of Physics and told us the names of the books we need to study And everyone's introduction was taken.
 
 
+##### Expert Lecture by Dr. Priya Darshni on "Universal Human Values"
+* Dr. Priya Darshni delivered a powerful session on "Universal Human Values," stressing the need for inner growth along with academics. She spoke about key values like honesty, compassion, and responsibility, and how they shape our lives. Using real-life examples, she encouraged students to build strong character and stay true to their conscience. The session was inspiring, thought-provoking, and left a positive impact on everyone.
+
+##### Session by Causmic Club 
+
+* Siniors tell us about the ausic club.
 
 
-🕦 11:30 AM – 12:30 PM
-
-Break
-
-
-🕧 12:30 PM – 2:30 PM
-
-Expert Lecture by Dr. Priya Darshni on "Universal Human Values-2" (Auditorium)
-
-
-🕝 2:30 PM – 3:30 PM
-
-Session by Causmic Club (Auditorium)
